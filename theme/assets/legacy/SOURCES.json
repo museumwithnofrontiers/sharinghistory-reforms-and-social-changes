@@ -1,5 +1,5 @@
 {
-  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Reforms and Social Changes (exhibitions/AWE/, exhibition 10), each file as legacy serves it, byte for byte: the pages' icons and strips, and the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image). tests/assets.test.js checks every file against its hash.",
+  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Reforms and Social Changes (exhibitions/AWE/, exhibition 10), each file as legacy serves it, byte for byte: the pages' icons and strips, the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image) and the partners' logos on the home page (logos/). tests/assets.test.js checks every file against its hash.",
   "files": {
     "theme/assets/legacy/arrow_black_down.gif": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_black_down.gif",
@@ -44,6 +44,14 @@
     "theme/assets/legacy/intro_bg.jpg": {
       "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/10/intro_bg.jpg",
       "sha256": "11846623decddf4c8f193f9c8c340d9b02abef35f0b0bd3b380f029a6dc6e13e"
+    },
+    "theme/assets/legacy/logos/item_logo_110.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/10/item_logo_110.png",
+      "sha256": "a94c24927809e40d18b7101051eb8bf09e9538a3ff301187d1b5ba2049763072"
+    },
+    "theme/assets/legacy/logos/item_logo_210.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/10/item_logo_210.png",
+      "sha256": "59fbe36bd9817df0b05965bca905a872cf2d3d74f4b2c625152c027566e0eeb7"
     },
     "theme/assets/legacy/magnify.png": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/magnify.png",
