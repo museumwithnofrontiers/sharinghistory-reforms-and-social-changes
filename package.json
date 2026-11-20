@@ -15,7 +15,7 @@
     "namespace": "reformsAndSocialChanges"
   },
   "dependencies": {
-    "@museumwnf/sharinghistory-reforms-and-social-changes-data": "^1.0.5",
+    "@museumwnf/sharinghistory-reforms-and-social-changes-data": "^1.0.6",
     "@museumwnf/viewer-core": "^2.23.1",
     "@museumwnf/viewer-i18n": "^6.21.0",
     "@museumwnf/viewer-layout": "^3.78.0",
